@@ -1,0 +1,1 @@
+execute store result score playercounter playeronline if entity @e[type=player]
