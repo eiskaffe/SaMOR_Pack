@@ -1,2 +1,2 @@
 # SaMOR_Pack
-SaMOR datapack
+SaMOR datapack for Minecraft 1.16+
